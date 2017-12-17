@@ -14,6 +14,7 @@ window.onload = function () {
   }, 1000/fps);
 };
 
+// moves all components
 function moveEverything() {
   console.log(ballX);
 
